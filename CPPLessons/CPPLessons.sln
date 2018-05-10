@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorPractice", "Operato
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "..\HelloWorld\HelloWorld.vcxproj", "{431317D0-2B82-4DDD-A444-CED8B2F85F2C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkingPractice", "LinkingPractice\LinkingPractice.vcxproj", "{622D7415-E66D-43E2-8C53-6C17B432483E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,16 @@ Global
 		{431317D0-2B82-4DDD-A444-CED8B2F85F2C}.Release|x64.Build.0 = Release|x64
 		{431317D0-2B82-4DDD-A444-CED8B2F85F2C}.Release|x86.ActiveCfg = Release|Win32
 		{431317D0-2B82-4DDD-A444-CED8B2F85F2C}.Release|x86.Build.0 = Release|Win32
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Debug|x64.ActiveCfg = Debug|x64
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Debug|x64.Build.0 = Debug|x64
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Debug|x86.ActiveCfg = Debug|Win32
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Debug|x86.Build.0 = Debug|Win32
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x64.ActiveCfg = Release|x64
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x64.Build.0 = Release|x64
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x86.ActiveCfg = Release|Win32
+		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
