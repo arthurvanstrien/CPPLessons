@@ -27,6 +27,7 @@
     <ProjectGuid>{622D7415-E66D-43E2-8C53-6C17B432483E}</ProjectGuid>
     <RootNamespace>LinkingPractice</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>Practice_Linking</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
