@@ -5,13 +5,15 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPPLessons", "CPPLessons.vcxproj", "{E4CFA68E-D52B-4CAE-982B-C373A3BC723F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise6.30", "..\Exercise6.30\Exercise6.30.vcxproj", "{F9206ED3-5818-4D81-8C1F-F8ACDD763CCE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise_6.30", "..\Exercise6.30\Exercise6.30.vcxproj", "{F9206ED3-5818-4D81-8C1F-F8ACDD763CCE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorPractice", "OperatorPractice\OperatorPractice.vcxproj", "{B1F4ACEC-AA38-4191-9789-B344C1A5CED7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice_Operators", "OperatorPractice\OperatorPractice.vcxproj", "{B1F4ACEC-AA38-4191-9789-B344C1A5CED7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "..\HelloWorld\HelloWorld.vcxproj", "{431317D0-2B82-4DDD-A444-CED8B2F85F2C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice_HelloWorld", "..\HelloWorld\HelloWorld.vcxproj", "{431317D0-2B82-4DDD-A444-CED8B2F85F2C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkingPractice", "LinkingPractice\LinkingPractice.vcxproj", "{622D7415-E66D-43E2-8C53-6C17B432483E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice_Linking", "LinkingPractice\LinkingPractice.vcxproj", "{622D7415-E66D-43E2-8C53-6C17B432483E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practice_HowCompilerWorks", "Practice_HowCompilerWorks\Practice_HowCompilerWorks.vcxproj", "{5738ADEB-A056-4239-8CB7-00D579D836E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,16 @@ Global
 		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x64.Build.0 = Release|x64
 		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x86.ActiveCfg = Release|Win32
 		{622D7415-E66D-43E2-8C53-6C17B432483E}.Release|x86.Build.0 = Release|Win32
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Debug|x64.ActiveCfg = Debug|x64
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Debug|x64.Build.0 = Debug|x64
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Debug|x86.Build.0 = Debug|Win32
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Release|x64.ActiveCfg = Release|x64
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Release|x64.Build.0 = Release|x64
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Release|x86.ActiveCfg = Release|Win32
+		{5738ADEB-A056-4239-8CB7-00D579D836E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
